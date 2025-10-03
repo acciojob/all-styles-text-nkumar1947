@@ -1,8 +1,9 @@
 .main {
-  width: 150px;
+  width: 200px;
   background-color: purple;
   border-left: 5px solid green;
-  padding: 10px;
+  padding-right:10px;
+
 }
 
 .heading {
